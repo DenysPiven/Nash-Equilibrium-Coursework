@@ -10,7 +10,7 @@
 
 An introduction to game theory and Nash equilibrium (classification of games, the prisoner's dilemma, normal-form games, the "Harvard" game, "Guess the number"), followed by two distributed Nash equilibrium search algorithms (continuous-time dynamics and a linearly convergent algorithm) and a numerical study of them on these example games.
 
-The work was extended into the bachelor's thesis [Distributed-Nash-Equilibrium-Bachelor-Thesis-2022](https://github.com/DenysPiven/Distributed-Nash-Equilibrium-Bachelor-Thesis-2022), which also contains the C# program used for the experiments.
+The work was extended into the bachelor's thesis [Distributed-Nash-Equilibrium-Bachelor-Thesis](https://github.com/DenysPiven/Distributed-Nash-Equilibrium-Bachelor-Thesis), which also contains the C# program used for the experiments.
 
 ## Contents
 
