@@ -15,5 +15,13 @@ The work was extended into the bachelor's thesis [Distributed-Nash-Equilibrium-B
 ## Contents
 
 ```
-thesis/Distributed_Nash_equilibrium_search_algorithms_coursework.pdf
+thesis/Distributed_Nash_equilibrium_search_algorithms_coursework.pdf   coursework text
+tex/main.tex                                                           LaTeX source
+tex/*.png                                                              figures
+```
+
+Build the PDF from source (XeLaTeX/pdfLaTeX with Ukrainian babel):
+
+```
+cd tex && pdflatex main.tex && pdflatex main.tex
 ```
